@@ -1,2 +1,2 @@
-Project: Portable Charging System EV
+
 Background: With the impact of climate change and people becoming increasingly concerned with pollution, EVs have become a cleaner andoften cheaper alternative. EVs technologicallimitation is their battery range and chargeravailability. These limitations have causedowners “range anxiety” which occurs when thedriver fears a lack of an available charging infrastructure when their Guess-O-Meter(GOM) displays a low charge.        By designing aportable EV charger that can charge thevehicle anywhere, drivers can have the peaceof mind knowing that they will have extra poweravailable to reach the next charging station.
